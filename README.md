@@ -1,6 +1,7 @@
 # Lead_Scoring
 
 **Problem Statement**
+
 X Education, an online education company, offers courses tailored for industry professionals. Every day, numerous professionals visit their website, explore courses, and may engage with the content by watching videos or filling out inquiry forms.
 
 The company promotes its courses through various digital platforms, including search engines like Google. When individuals submit their contact details through forms, they are classified as leads. Additionally, referrals from past customers contribute to lead generation. The sales team then reaches out to these leads via calls and emails, aiming to convert them into paying customers. However, the company currently experiences a lead conversion rate of only 30%.
@@ -10,6 +11,7 @@ Despite acquiring a large number of leads daily, only a fraction of them convert
 To optimize this process, X Education has tasked you with developing a model that assigns a Lead Score to each lead. This score will help rank leads based on their likelihood of conversion, allowing the sales team to prioritize high-scoring leads. The CEO has set a target lead conversion rate of approximately 80%.
 
 **Dataset Overview**
+
 The dataset consists of approximately 9,000 historical leads with various attributes, such as Lead Source, Total Time Spent on Website, Total Visits, and Last Activity. The objective is to analyze these features to determine their impact on lead conversion. The dataset includes a target variable, Converted, where:
 
 1 indicates a successful conversion
